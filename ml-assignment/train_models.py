@@ -21,7 +21,7 @@ from sklearn.metrics import (
 )
 
 # ---------- CONFIG: change these two ----------
-DATA_PATH = "/home/s2026ak05174/workspace/ml-assignment/data.csv"
+DATA_PATH = "data.csv"
 TARGET = "income" # <- your target column name
 # ----------------------------------------------
 
